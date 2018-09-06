@@ -145,7 +145,6 @@ export default {
 
   .aside .menu {
     height: 100%;
-    /* background-color: red; */
   }
 
   .main {
